@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3067d985-298d-4898-ae08-82f089f3cfcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ChainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/linear/JavascriptExecutorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/linear/TestAddElementOnPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/linear/TestSauceDemoLinear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/pages/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/pages/CheckoutPageTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/pages/InventoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/pages/ThankYouPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/pom/TestSauceDemoPOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/screenshot/ScreenshotUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/saucedemo/tables/CartItem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2g8ctSOYQlWli5gANwNlvsXJrdz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.TestSauceDemoPOM.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestSauceDemoPOM.testAddAllProductToCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestSauceDemoPOM.testAddAllProductToCartAndCountSum.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestSauceDemoPOM.testPurchaseFlowWithOrderPlacing.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ggolebiewski/Pobrane/portfolioSauceDemoPageObjectModel-20240509T101600Z-001/portfolioSauceDemoPageObjectModel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.JavascriptExecutorTest.sumCount">
+    <configuration name="JavascriptExecutorTest.sumCount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="portfolioSauceDemoPageObjectModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="saucedemo.linear.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="saucedemo.linear" />
+      <option name="MAIN_CLASS_NAME" value="saucedemo.linear.JavascriptExecutorTest" />
+      <option name="METHOD_NAME" value="sumCount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavascriptExecutorTest.testBasicAuth" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="portfolioSauceDemoPageObjectModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="saucedemo.linear.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="saucedemo.linear" />
+      <option name="MAIN_CLASS_NAME" value="saucedemo.linear.JavascriptExecutorTest" />
+      <option name="METHOD_NAME" value="testBasicAuth" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavascriptExecutorTest.testCalendar" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="portfolioSauceDemoPageObjectModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="saucedemo.linear.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="saucedemo.linear" />
+      <option name="MAIN_CLASS_NAME" value="saucedemo.linear.JavascriptExecutorTest" />
+      <option name="METHOD_NAME" value="testCalendar" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavascriptExecutorTest.testEnableButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="portfolioSauceDemoPageObjectModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="saucedemo.linear.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="saucedemo.linear" />
+      <option name="MAIN_CLASS_NAME" value="saucedemo.linear.JavascriptExecutorTest" />
+      <option name="METHOD_NAME" value="testEnableButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSauceDemoPOM.testPurchaseFlowWithOrderPlacing" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="portfolioSauceDemoPageObjectModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="saucedemo.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="saucedemo.pom" />
+      <option name="MAIN_CLASS_NAME" value="saucedemo.pom.TestSauceDemoPOM" />
+      <option name="METHOD_NAME" value="testPurchaseFlowWithOrderPlacing" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JavascriptExecutorTest.sumCount" />
+        <item itemvalue="TestNG.JavascriptExecutorTest.testBasicAuth" />
+        <item itemvalue="TestNG.JavascriptExecutorTest.testCalendar" />
+        <item itemvalue="TestNG.JavascriptExecutorTest.testEnableButton" />
+        <item itemvalue="TestNG.TestSauceDemoPOM.testPurchaseFlowWithOrderPlacing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3067d985-298d-4898-ae08-82f089f3cfcf" name="Changes" comment="" />
+      <created>1715082860024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715082860024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/saucedemo/pages/CartPage.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/saucedemo/pom/TestSauceDemoPOM.java</url>
+          <line>67</line>
+          <properties class="saucedemo.pom.TestSauceDemoPOM" method="testPurchaseFlowWithOrderPlacing">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/saucedemo/pom/TestSauceDemoPOM.java</url>
+          <line>44</line>
+          <properties class="saucedemo.pom.TestSauceDemoPOM" method="testAddAllProductToCartAndCountSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
